@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T08:46:37.397Z",
+  "updatedAt": "2026-09-29T08:46:43.892Z",
   "problems": [
     {
       "frontendId": "1",
@@ -82,7 +82,7 @@
           "filename": "0034-find-first-and-last-position-of-element-in-sorted-array.java",
           "path": "0034-find-first-and-last-position-of-element-in-sorted-array/0034-find-first-and-last-position-of-element-in-sorted-array.java",
           "sha": "3459eaf589f75532579eafbfd2287bd243041094",
-          "lastSyncedAt": "2026-09-29T08:42:39.363Z"
+          "lastSyncedAt": "2026-09-29T08:46:43.892Z"
         }
       ]
     },
