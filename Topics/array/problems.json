@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T08:39:14.564Z",
+  "updatedAt": "2026-09-29T08:39:25.007Z",
   "problems": [
     {
       "frontendId": "1",
@@ -43,6 +43,26 @@
           "path": "1431-kids-with-the-greatest-number-of-candies/1431-kids-with-the-greatest-number-of-candies.java",
           "sha": "ee1ac622df7c8b2051e793c1088ee276c9619037",
           "lastSyncedAt": "2026-09-29T08:38:05.343Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1470",
+      "title": "Shuffle the Array",
+      "slug": "shuffle-the-array",
+      "problemName": "1470-shuffle-the-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shuffle-the-array/",
+      "folderPath": "1470-shuffle-the-array/",
+      "readmePath": "1470-shuffle-the-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1470-shuffle-the-array.java",
+          "path": "1470-shuffle-the-array/1470-shuffle-the-array.java",
+          "sha": "686c49ffd94fe366b27d2591957e734f1f5429f7",
+          "lastSyncedAt": "2026-09-29T08:39:25.007Z"
         }
       ]
     },
