@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-29T08:42:54.008Z",
+  "updatedAt": "2026-09-29T08:43:25.239Z",
   "problems": [
     {
       "frontendId": "204",
@@ -83,6 +83,26 @@
           "path": "1295-find-numbers-with-even-number-of-digits/1295-find-numbers-with-even-number-of-digits.java",
           "sha": "1f29de3fde28732833c7959b2e0a43807f196665",
           "lastSyncedAt": "2026-09-29T08:39:33.714Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1317",
+      "title": "Convert Integer to the Sum of Two No-Zero Integers",
+      "slug": "convert-integer-to-the-sum-of-two-no-zero-integers",
+      "problemName": "1317-convert-integer-to-the-sum-of-two-no-zero-integers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/",
+      "folderPath": "1317-convert-integer-to-the-sum-of-two-no-zero-integers/",
+      "readmePath": "1317-convert-integer-to-the-sum-of-two-no-zero-integers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1317-convert-integer-to-the-sum-of-two-no-zero-integers.java",
+          "path": "1317-convert-integer-to-the-sum-of-two-no-zero-integers/1317-convert-integer-to-the-sum-of-two-no-zero-integers.java",
+          "sha": "258488fba7dfd103c53db22fa6e1c64d71a090b6",
+          "lastSyncedAt": "2026-09-29T08:43:25.239Z"
         }
       ]
     },
