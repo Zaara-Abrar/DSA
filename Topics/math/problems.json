@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-29T08:43:25.239Z",
+  "updatedAt": "2026-09-29T08:43:34.049Z",
   "problems": [
+    {
+      "frontendId": "9",
+      "title": "Palindrome Number",
+      "slug": "palindrome-number",
+      "problemName": "0009-palindrome-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-number/",
+      "folderPath": "0009-palindrome-number/",
+      "readmePath": "0009-palindrome-number/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0009-palindrome-number.py",
+          "path": "0009-palindrome-number/0009-palindrome-number.py",
+          "sha": "92c40d8436ce09c5455b13eacecc4e793b49f984",
+          "lastSyncedAt": "2026-09-29T08:43:34.049Z"
+        }
+      ]
+    },
     {
       "frontendId": "204",
       "title": "Count Primes",
