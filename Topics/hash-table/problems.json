@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-29T08:40:46.987Z",
+  "updatedAt": "2026-09-29T08:44:49.632Z",
   "problems": [
     {
       "frontendId": "1",
@@ -22,7 +22,7 @@
           "filename": "0001-two-sum.java",
           "path": "0001-two-sum/0001-two-sum.java",
           "sha": "839775ac7f0d83ba5d392e57971efbb989ff6d32",
-          "lastSyncedAt": "2026-09-29T08:38:59.611Z"
+          "lastSyncedAt": "2026-09-29T08:44:49.632Z"
         }
       ]
     },
