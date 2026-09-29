@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T08:45:14.105Z",
+  "updatedAt": "2026-09-29T08:45:29.978Z",
   "problems": [
     {
       "frontendId": "1",
@@ -162,7 +162,7 @@
           "filename": "0532-k-diff-pairs-in-an-array.java",
           "path": "0532-k-diff-pairs-in-an-array/0532-k-diff-pairs-in-an-array.java",
           "sha": "7bef8af0d3bedc601a172a9c833f4597e0197277",
-          "lastSyncedAt": "2026-09-29T08:40:46.987Z"
+          "lastSyncedAt": "2026-09-29T08:45:29.978Z"
         }
       ]
     },
