@@ -4,7 +4,7 @@
     "slug": "sieve-theory",
     "name": "Sieve Theory"
   },
-  "updatedAt": "2026-09-29T08:42:54.008Z",
+  "updatedAt": "2026-09-29T08:46:53.699Z",
   "problems": [
     {
       "frontendId": "204",
@@ -22,7 +22,7 @@
           "filename": "0204-count-primes.java",
           "path": "0204-count-primes/0204-count-primes.java",
           "sha": "6b75dee7546239d7919995f0d84bf89ffd1877bd",
-          "lastSyncedAt": "2026-09-29T08:42:54.008Z"
+          "lastSyncedAt": "2026-09-29T08:46:53.699Z"
         }
       ]
     }
