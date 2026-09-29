@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T08:41:41.815Z",
+  "updatedAt": "2026-09-29T08:41:56.050Z",
   "problems": [
     {
       "frontendId": "1",
@@ -103,6 +103,26 @@
           "path": "0713-subarray-product-less-than-k/0713-subarray-product-less-than-k.java",
           "sha": "a68a1e2ebc5e4ad2a9374862eccf0d9c5a9f3d99",
           "lastSyncedAt": "2026-09-29T08:41:04.658Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "852",
+      "title": "Peak Index in a Mountain Array",
+      "slug": "peak-index-in-a-mountain-array",
+      "problemName": "0852-peak-index-in-a-mountain-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/peak-index-in-a-mountain-array/",
+      "folderPath": "0852-peak-index-in-a-mountain-array/",
+      "readmePath": "0852-peak-index-in-a-mountain-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0852-peak-index-in-a-mountain-array.java",
+          "path": "0852-peak-index-in-a-mountain-array/0852-peak-index-in-a-mountain-array.java",
+          "sha": "e381d8f6019e117e1ad79b829fb61252f5105507",
+          "lastSyncedAt": "2026-09-29T08:41:56.050Z"
         }
       ]
     },
