@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-29T08:40:33.514Z",
+  "updatedAt": "2026-09-29T08:42:47.769Z",
   "problems": [
+    {
+      "frontendId": "263",
+      "title": "Ugly Number",
+      "slug": "ugly-number",
+      "problemName": "0263-ugly-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/ugly-number/",
+      "folderPath": "0263-ugly-number/",
+      "readmePath": "0263-ugly-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0263-ugly-number.java",
+          "path": "0263-ugly-number/0263-ugly-number.java",
+          "sha": "e508a8f1855b76a331310739c79b2251b8503194",
+          "lastSyncedAt": "2026-09-29T08:42:47.769Z"
+        }
+      ]
+    },
     {
       "frontendId": "412",
       "title": "Fizz Buzz",
