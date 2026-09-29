@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-29T08:41:41.815Z",
+  "updatedAt": "2026-09-29T08:41:49.904Z",
   "problems": [
     {
       "frontendId": "167",
@@ -23,6 +23,26 @@
           "path": "0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.java",
           "sha": "7b383ccdc955fe1d379d13e3a06a0772b15195cc",
           "lastSyncedAt": "2026-09-29T08:41:32.500Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "367",
+      "title": "Valid Perfect Square",
+      "slug": "valid-perfect-square",
+      "problemName": "0367-valid-perfect-square",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-perfect-square/",
+      "folderPath": "0367-valid-perfect-square/",
+      "readmePath": "0367-valid-perfect-square/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0367-valid-perfect-square.java",
+          "path": "0367-valid-perfect-square/0367-valid-perfect-square.java",
+          "sha": "e1eeee2246eaaecc087edef8b3b2ae782061972e",
+          "lastSyncedAt": "2026-09-29T08:41:49.904Z"
         }
       ]
     },
