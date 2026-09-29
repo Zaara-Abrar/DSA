@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-29T08:43:34.049Z",
+  "updatedAt": "2026-09-29T08:43:39.988Z",
   "problems": [
+    {
+      "frontendId": "7",
+      "title": "Reverse Integer",
+      "slug": "reverse-integer",
+      "problemName": "0007-reverse-integer",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-integer/",
+      "folderPath": "0007-reverse-integer/",
+      "readmePath": "0007-reverse-integer/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0007-reverse-integer.py",
+          "path": "0007-reverse-integer/0007-reverse-integer.py",
+          "sha": "8ef246afd31d042fbdef1892f8bb84f08ec4f7df",
+          "lastSyncedAt": "2026-09-29T08:43:39.988Z"
+        }
+      ]
+    },
     {
       "frontendId": "9",
       "title": "Palindrome Number",
