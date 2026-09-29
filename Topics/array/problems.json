@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T08:42:11.888Z",
+  "updatedAt": "2026-09-29T08:42:30.050Z",
   "problems": [
     {
       "frontendId": "1",
@@ -123,6 +123,26 @@
           "path": "0713-subarray-product-less-than-k/0713-subarray-product-less-than-k.java",
           "sha": "a68a1e2ebc5e4ad2a9374862eccf0d9c5a9f3d99",
           "lastSyncedAt": "2026-09-29T08:41:04.658Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "744",
+      "title": "Find Smallest Letter Greater Than Target",
+      "slug": "find-smallest-letter-greater-than-target",
+      "problemName": "0744-find-smallest-letter-greater-than-target",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-smallest-letter-greater-than-target/",
+      "folderPath": "0744-find-smallest-letter-greater-than-target/",
+      "readmePath": "0744-find-smallest-letter-greater-than-target/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0744-find-smallest-letter-greater-than-target.java",
+          "path": "0744-find-smallest-letter-greater-than-target/0744-find-smallest-letter-greater-than-target.java",
+          "sha": "ceeee06deab726c9b24d42da02a4749f600c4548",
+          "lastSyncedAt": "2026-09-29T08:42:30.050Z"
         }
       ]
     },
