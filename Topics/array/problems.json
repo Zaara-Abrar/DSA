@@ -4,6 +4,27 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T08:37:30.742Z",
-  "problems": []
+  "updatedAt": "2026-09-29T08:38:05.343Z",
+  "problems": [
+    {
+      "frontendId": "1431",
+      "title": "Kids With the Greatest Number of Candies",
+      "slug": "kids-with-the-greatest-number-of-candies",
+      "problemName": "1431-kids-with-the-greatest-number-of-candies",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/",
+      "folderPath": "1431-kids-with-the-greatest-number-of-candies/",
+      "readmePath": "1431-kids-with-the-greatest-number-of-candies/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1431-kids-with-the-greatest-number-of-candies.java",
+          "path": "1431-kids-with-the-greatest-number-of-candies/1431-kids-with-the-greatest-number-of-candies.java",
+          "sha": "ee1ac622df7c8b2051e793c1088ee276c9619037",
+          "lastSyncedAt": "2026-09-29T08:38:05.343Z"
+        }
+      ]
+    }
+  ]
 }
