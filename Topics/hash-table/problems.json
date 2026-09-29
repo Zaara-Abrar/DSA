@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-29T08:38:59.611Z",
+  "updatedAt": "2026-09-29T08:40:46.987Z",
   "problems": [
     {
       "frontendId": "1",
@@ -23,6 +23,26 @@
           "path": "0001-two-sum/0001-two-sum.java",
           "sha": "839775ac7f0d83ba5d392e57971efbb989ff6d32",
           "lastSyncedAt": "2026-09-29T08:38:59.611Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "532",
+      "title": "K-diff Pairs in an Array",
+      "slug": "k-diff-pairs-in-an-array",
+      "problemName": "0532-k-diff-pairs-in-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/k-diff-pairs-in-an-array/",
+      "folderPath": "0532-k-diff-pairs-in-an-array/",
+      "readmePath": "0532-k-diff-pairs-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0532-k-diff-pairs-in-an-array.java",
+          "path": "0532-k-diff-pairs-in-an-array/0532-k-diff-pairs-in-an-array.java",
+          "sha": "7bef8af0d3bedc601a172a9c833f4597e0197277",
+          "lastSyncedAt": "2026-09-29T08:40:46.987Z"
         }
       ]
     }
