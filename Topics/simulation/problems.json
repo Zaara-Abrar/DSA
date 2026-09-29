@@ -4,8 +4,28 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-29T08:39:14.564Z",
+  "updatedAt": "2026-09-29T08:40:33.514Z",
   "problems": [
+    {
+      "frontendId": "412",
+      "title": "Fizz Buzz",
+      "slug": "fizz-buzz",
+      "problemName": "0412-fizz-buzz",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fizz-buzz/",
+      "folderPath": "0412-fizz-buzz/",
+      "readmePath": "0412-fizz-buzz/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0412-fizz-buzz.java",
+          "path": "0412-fizz-buzz/0412-fizz-buzz.java",
+          "sha": "f356b91be166004476ce777a265d7642ee7e56ce",
+          "lastSyncedAt": "2026-09-29T08:40:33.514Z"
+        }
+      ]
+    },
     {
       "frontendId": "1920",
       "title": "Build Array from Permutation",
