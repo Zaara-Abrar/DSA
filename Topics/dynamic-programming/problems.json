@@ -4,6 +4,27 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-29T08:37:30.742Z",
-  "problems": []
+  "updatedAt": "2026-10-09T09:01:32.155Z",
+  "problems": [
+    {
+      "frontendId": "121",
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "problemName": "0121-best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+      "folderPath": "0121-best-time-to-buy-and-sell-stock/",
+      "readmePath": "0121-best-time-to-buy-and-sell-stock/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0121-best-time-to-buy-and-sell-stock.java",
+          "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.java",
+          "sha": "99d8774d5b8fb6266c7a6b201db3fa9d4934ea92",
+          "lastSyncedAt": "2026-10-09T09:01:32.155Z"
+        }
+      ]
+    }
+  ]
 }
