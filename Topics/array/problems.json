@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T17:32:24.031Z",
+  "updatedAt": "2026-11-16T17:38:25.412Z",
   "problems": [
     {
       "frontendId": "1",
@@ -264,6 +264,26 @@
           "path": "0204-count-primes/0204-count-primes.java",
           "sha": "6b75dee7546239d7919995f0d84bf89ffd1877bd",
           "lastSyncedAt": "2026-11-16T16:55:09.393Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "216",
+      "title": "Combination Sum III",
+      "slug": "combination-sum-iii",
+      "problemName": "0216-combination-sum-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/combination-sum-iii/",
+      "folderPath": "0216-combination-sum-iii/",
+      "readmePath": "0216-combination-sum-iii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0216-combination-sum-iii.java",
+          "path": "0216-combination-sum-iii/0216-combination-sum-iii.java",
+          "sha": "13ca82d462216098d503a8fc018e5cae0399ee1d",
+          "lastSyncedAt": "2026-11-16T17:38:25.412Z"
         }
       ]
     },
