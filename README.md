@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 36 | 20 | 15 | 1 |
+| 37 | 20 | 16 | 1 |
 
 ## Activity
 
@@ -28,39 +28,40 @@ Contains topicwise list of solved problems.
 | 2026-10-05 | 1 |
 | 2026-10-09 | 1 |
 | 2026-10-27 | 1 |
-| 2026-11-16 | 6 |
+| 2026-11-16 | 7 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 23 | 64% |
-| Binary Search | 10 | 28% |
-| Math | 9 | 25% |
-| Backtracking | 5 | 14% |
+| Array | 24 | 65% |
+| Binary Search | 10 | 27% |
+| Math | 9 | 24% |
+| Backtracking | 6 | 16% |
+| Dynamic Programming | 4 | 11% |
 | String | 4 | 11% |
 | Two Pointers | 4 | 11% |
-| Dynamic Programming | 3 | 8% |
+| Bit Manipulation | 3 | 8% |
 | Hash Table | 3 | 8% |
 | Simulation | 3 | 8% |
-| Bit Manipulation | 2 | 6% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
-| [Array](Topics/array/) | 23 |
-| [Backtracking](Topics/backtracking/) | 6 |
+| [Array](Topics/array/) | 24 |
+| [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Search](Topics/binary-search/) | 10 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 2 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 3 |
+| [Bitmask](Topics/bitmask/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Database](Topics/database/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 4 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 5 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
@@ -70,6 +71,7 @@ Contains topicwise list of solved problems.
 | [Linked List](Topics/linked-list/) | 0 |
 | [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 1 |
+| [Memoization](Topics/memoization/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
 | [Primality Test](Topics/primality-test/) | 1 |
