@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-16T16:53:07.745Z",
+  "updatedAt": "2026-11-16T16:55:05.316Z",
   "problems": [
     {
       "frontendId": "22",
@@ -132,6 +132,26 @@
           "path": "0698-partition-to-k-equal-sum-subsets/0698-partition-to-k-equal-sum-subsets.java",
           "sha": "15a1531a7ae0a158d1d765fb04cba3614407ee9d",
           "lastSyncedAt": "2026-11-16T16:52:05.983Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "968",
+      "title": "Binary Tree Cameras",
+      "slug": "binary-tree-cameras",
+      "problemName": "0968-binary-tree-cameras",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-cameras/",
+      "folderPath": "0968-binary-tree-cameras/",
+      "readmePath": "0968-binary-tree-cameras/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0968-binary-tree-cameras.java",
+          "path": "0968-binary-tree-cameras/0968-binary-tree-cameras.java",
+          "sha": "e853c6a6f04971039a827ddc161d2991256cafa1",
+          "lastSyncedAt": "2026-11-16T16:55:05.316Z"
         }
       ]
     },
