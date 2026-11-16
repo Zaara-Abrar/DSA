@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-16T17:05:36.667Z",
+  "updatedAt": "2026-11-16T17:19:34.190Z",
   "problems": [
     {
       "frontendId": "17",
@@ -272,6 +272,26 @@
           "path": "1723-find-minimum-time-to-finish-all-jobs/1723-find-minimum-time-to-finish-all-jobs.java",
           "sha": "f5dabfea3ccff24a76b6fd6621e65525e3a03c84",
           "lastSyncedAt": "2026-11-16T16:51:47.754Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2044",
+      "title": "Count Number of Maximum Bitwise-OR Subsets",
+      "slug": "count-number-of-maximum-bitwise-or-subsets",
+      "problemName": "2044-count-number-of-maximum-bitwise-or-subsets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/",
+      "folderPath": "2044-count-number-of-maximum-bitwise-or-subsets/",
+      "readmePath": "2044-count-number-of-maximum-bitwise-or-subsets/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2044-count-number-of-maximum-bitwise-or-subsets.java",
+          "path": "2044-count-number-of-maximum-bitwise-or-subsets/2044-count-number-of-maximum-bitwise-or-subsets.java",
+          "sha": "b77397d04b4faf8e16e2793cc330908946945916",
+          "lastSyncedAt": "2026-11-16T17:19:34.190Z"
         }
       ]
     }
