@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-16T16:36:39.653Z",
+  "updatedAt": "2026-11-16T16:41:39.535Z",
   "problems": [
     {
       "frontendId": "17",
@@ -124,6 +124,26 @@
           "path": "0494-target-sum/0494-target-sum.java",
           "sha": "3e8fc7e0734ac10bd716d73518b002f2f9347a34",
           "lastSyncedAt": "2026-11-16T16:36:39.653Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "698",
+      "title": "Partition to K Equal Sum Subsets",
+      "slug": "partition-to-k-equal-sum-subsets",
+      "problemName": "0698-partition-to-k-equal-sum-subsets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets/",
+      "folderPath": "0698-partition-to-k-equal-sum-subsets/",
+      "readmePath": "0698-partition-to-k-equal-sum-subsets/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0698-partition-to-k-equal-sum-subsets.java",
+          "path": "0698-partition-to-k-equal-sum-subsets/0698-partition-to-k-equal-sum-subsets.java",
+          "sha": "15a1531a7ae0a158d1d765fb04cba3614407ee9d",
+          "lastSyncedAt": "2026-11-16T16:41:39.535Z"
         }
       ]
     }
