@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 41 | 20 | 19 | 2 |
+| 41 | 20 | 18 | 3 |
 
 ## Activity
 
@@ -35,12 +35,12 @@ Contains topicwise list of solved problems.
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 27 | 66% |
+| Backtracking | 10 | 24% |
 | Binary Search | 10 | 24% |
-| Backtracking | 9 | 22% |
 | Math | 9 | 22% |
 | Dynamic Programming | 7 | 17% |
 | Bit Manipulation | 5 | 12% |
-| String | 4 | 10% |
+| String | 5 | 12% |
 | Two Pointers | 4 | 10% |
 | Bitmask | 3 | 7% |
 | Hash Table | 3 | 7% |
