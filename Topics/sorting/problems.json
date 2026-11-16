@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "sorting",
-    "name": "Sorting"
+    "name": "Sorting",
+    "tagId": "61049"
   },
-  "updatedAt": "2026-09-29T08:45:29.978Z",
+  "updatedAt": "2026-11-16T16:23:11.458Z",
   "problems": [
     {
       "frontendId": "532",
@@ -22,7 +23,7 @@
           "filename": "0532-k-diff-pairs-in-an-array.java",
           "path": "0532-k-diff-pairs-in-an-array/0532-k-diff-pairs-in-an-array.java",
           "sha": "7bef8af0d3bedc601a172a9c833f4597e0197277",
-          "lastSyncedAt": "2026-09-29T08:45:29.978Z"
+          "lastSyncedAt": "2026-11-16T16:23:11.458Z"
         }
       ]
     }
