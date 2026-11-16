@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-16T16:52:47.239Z",
+  "updatedAt": "2026-11-16T16:52:53.314Z",
   "problems": [
     {
       "frontendId": "17",
@@ -43,7 +43,7 @@
           "filename": "0022-generate-parentheses.java",
           "path": "0022-generate-parentheses/0022-generate-parentheses.java",
           "sha": "47606215960408ea92e45ae5e2f1f08884bfde01",
-          "lastSyncedAt": "2026-11-16T16:21:40.941Z"
+          "lastSyncedAt": "2026-11-16T16:52:53.314Z"
         }
       ]
     },
