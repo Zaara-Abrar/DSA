@@ -5,7 +5,7 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-11-16T16:55:09.393Z",
+  "updatedAt": "2026-11-16T17:19:34.190Z",
   "problems": [
     {
       "frontendId": "204",
@@ -24,6 +24,26 @@
           "path": "0204-count-primes/0204-count-primes.java",
           "sha": "6b75dee7546239d7919995f0d84bf89ffd1877bd",
           "lastSyncedAt": "2026-11-16T16:55:09.393Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2044",
+      "title": "Count Number of Maximum Bitwise-OR Subsets",
+      "slug": "count-number-of-maximum-bitwise-or-subsets",
+      "problemName": "2044-count-number-of-maximum-bitwise-or-subsets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/",
+      "folderPath": "2044-count-number-of-maximum-bitwise-or-subsets/",
+      "readmePath": "2044-count-number-of-maximum-bitwise-or-subsets/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2044-count-number-of-maximum-bitwise-or-subsets.java",
+          "path": "2044-count-number-of-maximum-bitwise-or-subsets/2044-count-number-of-maximum-bitwise-or-subsets.java",
+          "sha": "b77397d04b4faf8e16e2793cc330908946945916",
+          "lastSyncedAt": "2026-11-16T17:19:34.190Z"
         }
       ]
     }
