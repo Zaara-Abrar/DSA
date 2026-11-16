@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-16T17:01:46.570Z",
+  "updatedAt": "2026-11-16T17:05:36.667Z",
   "problems": [
     {
       "frontendId": "78",
@@ -44,6 +44,26 @@
           "path": "0090-subsets-ii/0090-subsets-ii.java",
           "sha": "6dce1097dd1414296289bc5c4b5b1899bb79cab6",
           "lastSyncedAt": "2026-11-16T16:58:28.611Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "401",
+      "title": "Binary Watch",
+      "slug": "binary-watch",
+      "problemName": "0401-binary-watch",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-watch/",
+      "folderPath": "0401-binary-watch/",
+      "readmePath": "0401-binary-watch/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0401-binary-watch.java",
+          "path": "0401-binary-watch/0401-binary-watch.java",
+          "sha": "07fd8c73b4d6a8396affcbc27ac6b8132dddfab5",
+          "lastSyncedAt": "2026-11-16T17:05:36.667Z"
         }
       ]
     },
