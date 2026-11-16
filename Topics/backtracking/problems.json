@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-16T16:51:56.924Z",
+  "updatedAt": "2026-11-16T16:52:05.983Z",
   "problems": [
     {
       "frontendId": "17",
@@ -183,7 +183,7 @@
           "filename": "0698-partition-to-k-equal-sum-subsets.java",
           "path": "0698-partition-to-k-equal-sum-subsets/0698-partition-to-k-equal-sum-subsets.java",
           "sha": "15a1531a7ae0a158d1d765fb04cba3614407ee9d",
-          "lastSyncedAt": "2026-11-16T16:41:39.535Z"
+          "lastSyncedAt": "2026-11-16T16:52:05.983Z"
         }
       ]
     },
