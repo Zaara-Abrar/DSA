@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-16T16:45:00.381Z",
+  "updatedAt": "2026-11-16T16:47:01.493Z",
   "problems": [
     {
       "frontendId": "78",
@@ -84,6 +84,26 @@
           "path": "1342-number-of-steps-to-reduce-a-number-to-zero/1342-number-of-steps-to-reduce-a-number-to-zero.java",
           "sha": "075a0094654ead055e812d7ca26145ad9de349a6",
           "lastSyncedAt": "2026-11-16T16:22:58.975Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1723",
+      "title": "Find Minimum Time to Finish All Jobs",
+      "slug": "find-minimum-time-to-finish-all-jobs",
+      "problemName": "1723-find-minimum-time-to-finish-all-jobs",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/",
+      "folderPath": "1723-find-minimum-time-to-finish-all-jobs/",
+      "readmePath": "1723-find-minimum-time-to-finish-all-jobs/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1723-find-minimum-time-to-finish-all-jobs.java",
+          "path": "1723-find-minimum-time-to-finish-all-jobs/1723-find-minimum-time-to-finish-all-jobs.java",
+          "sha": "f5dabfea3ccff24a76b6fd6621e65525e3a03c84",
+          "lastSyncedAt": "2026-11-16T16:47:01.493Z"
         }
       ]
     }
