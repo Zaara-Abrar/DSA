@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-16T16:52:26.521Z",
+  "updatedAt": "2026-11-16T16:52:47.239Z",
   "problems": [
     {
       "frontendId": "17",
@@ -23,7 +23,7 @@
           "filename": "0017-letter-combinations-of-a-phone-number.java",
           "path": "0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.java",
           "sha": "7f959719c117d0ddc7e4756c745a06f52799edfc",
-          "lastSyncedAt": "2026-11-16T16:21:31.231Z"
+          "lastSyncedAt": "2026-11-16T16:52:47.239Z"
         }
       ]
     },
