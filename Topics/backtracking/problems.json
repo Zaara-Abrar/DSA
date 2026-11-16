@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-16T17:01:46.570Z",
+  "updatedAt": "2026-11-16T17:05:36.667Z",
   "problems": [
     {
       "frontendId": "17",
@@ -152,6 +152,26 @@
           "path": "0131-palindrome-partitioning/0131-palindrome-partitioning.java",
           "sha": "e3733131abad79571e9c61424c28daf79cf210c5",
           "lastSyncedAt": "2026-11-16T16:24:54.346Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "401",
+      "title": "Binary Watch",
+      "slug": "binary-watch",
+      "problemName": "0401-binary-watch",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-watch/",
+      "folderPath": "0401-binary-watch/",
+      "readmePath": "0401-binary-watch/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0401-binary-watch.java",
+          "path": "0401-binary-watch/0401-binary-watch.java",
+          "sha": "07fd8c73b4d6a8396affcbc27ac6b8132dddfab5",
+          "lastSyncedAt": "2026-11-16T17:05:36.667Z"
         }
       ]
     },
