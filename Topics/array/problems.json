@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "array",
-    "name": "Array"
+    "name": "Array",
+    "tagId": "5"
   },
-  "updatedAt": "2026-10-09T09:01:32.155Z",
+  "updatedAt": "2026-11-16T16:21:11.585Z",
   "problems": [
     {
       "frontendId": "1",
@@ -103,6 +104,26 @@
           "path": "0035-search-insert-position/0035-search-insert-position.java",
           "sha": "0884d8af5dce10f3a8f2b9a5e395f33291bfaa44",
           "lastSyncedAt": "2026-09-29T08:46:22.608Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "46",
+      "title": "Permutations",
+      "slug": "permutations",
+      "problemName": "0046-permutations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/permutations/",
+      "folderPath": "0046-permutations/",
+      "readmePath": "0046-permutations/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0046-permutations.java",
+          "path": "0046-permutations/0046-permutations.java",
+          "sha": "f0832995d2849950493659d2c5cffdd91f3cf6e1",
+          "lastSyncedAt": "2026-11-16T16:21:11.585Z"
         }
       ]
     },
