@@ -2,10 +2,31 @@
   "version": 1,
   "topic": {
     "slug": "bit-manipulation",
-    "name": "Bit Manipulation"
+    "name": "Bit Manipulation",
+    "tagId": "19"
   },
-  "updatedAt": "2026-09-29T08:45:18.828Z",
+  "updatedAt": "2026-11-16T16:21:20.550Z",
   "problems": [
+    {
+      "frontendId": "78",
+      "title": "Subsets",
+      "slug": "subsets",
+      "problemName": "0078-subsets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subsets/",
+      "folderPath": "0078-subsets/",
+      "readmePath": "0078-subsets/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0078-subsets.java",
+          "path": "0078-subsets/0078-subsets.java",
+          "sha": "a2e1b8351ca2442bb0479622f4afa8b0ef266180",
+          "lastSyncedAt": "2026-11-16T16:21:20.550Z"
+        }
+      ]
+    },
     {
       "frontendId": "1342",
       "title": "Number of Steps to Reduce a Number to Zero",
