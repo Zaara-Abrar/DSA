@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-16T16:22:58.975Z",
+  "updatedAt": "2026-11-16T16:41:39.535Z",
   "problems": [
     {
       "frontendId": "78",
@@ -24,6 +24,26 @@
           "path": "0078-subsets/0078-subsets.java",
           "sha": "a2e1b8351ca2442bb0479622f4afa8b0ef266180",
           "lastSyncedAt": "2026-11-16T16:21:20.550Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "698",
+      "title": "Partition to K Equal Sum Subsets",
+      "slug": "partition-to-k-equal-sum-subsets",
+      "problemName": "0698-partition-to-k-equal-sum-subsets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets/",
+      "folderPath": "0698-partition-to-k-equal-sum-subsets/",
+      "readmePath": "0698-partition-to-k-equal-sum-subsets/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0698-partition-to-k-equal-sum-subsets.java",
+          "path": "0698-partition-to-k-equal-sum-subsets/0698-partition-to-k-equal-sum-subsets.java",
+          "sha": "15a1531a7ae0a158d1d765fb04cba3614407ee9d",
+          "lastSyncedAt": "2026-11-16T16:41:39.535Z"
         }
       ]
     },
