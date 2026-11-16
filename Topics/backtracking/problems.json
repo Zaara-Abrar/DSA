@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-16T16:58:28.611Z",
+  "updatedAt": "2026-11-16T17:01:46.570Z",
   "problems": [
     {
       "frontendId": "17",
@@ -212,6 +212,26 @@
           "path": "0698-partition-to-k-equal-sum-subsets/0698-partition-to-k-equal-sum-subsets.java",
           "sha": "15a1531a7ae0a158d1d765fb04cba3614407ee9d",
           "lastSyncedAt": "2026-11-16T16:52:05.983Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "784",
+      "title": "Letter Case Permutation",
+      "slug": "letter-case-permutation",
+      "problemName": "0784-letter-case-permutation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/letter-case-permutation/",
+      "folderPath": "0784-letter-case-permutation/",
+      "readmePath": "0784-letter-case-permutation/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0784-letter-case-permutation.java",
+          "path": "0784-letter-case-permutation/0784-letter-case-permutation.java",
+          "sha": "ad2025367c13f35fc56dc9771905523386dff409",
+          "lastSyncedAt": "2026-11-16T17:01:46.570Z"
         }
       ]
     },
