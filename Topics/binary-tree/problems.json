@@ -2,8 +2,30 @@
   "version": 1,
   "topic": {
     "slug": "binary-tree",
-    "name": "Binary Tree"
+    "name": "Binary Tree",
+    "tagId": "61057"
   },
-  "updatedAt": "2026-09-29T08:37:30.742Z",
-  "problems": []
+  "updatedAt": "2026-11-16T16:21:53.936Z",
+  "problems": [
+    {
+      "frontendId": "700",
+      "title": "Search in a Binary Search Tree",
+      "slug": "search-in-a-binary-search-tree",
+      "problemName": "0700-search-in-a-binary-search-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+      "folderPath": "0700-search-in-a-binary-search-tree/",
+      "readmePath": "0700-search-in-a-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0700-search-in-a-binary-search-tree.java",
+          "path": "0700-search-in-a-binary-search-tree/0700-search-in-a-binary-search-tree.java",
+          "sha": "587c7393964309c0c9baabbfcfb3ba8ef482a704",
+          "lastSyncedAt": "2026-11-16T16:21:53.936Z"
+        }
+      ]
+    }
+  ]
 }
