@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 29 | 19 | 9 | 1 |
+| 30 | 19 | 10 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 2 days | 22 |
+| 1 days | 2 days | 23 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-02-09 | 1 |
 | 2026-02-11 | 1 |
 | 2026-02-13 | 1 |
 | 2026-02-17 | 1 |
@@ -29,15 +28,16 @@ Contains topicwise list of solved problems.
 | 2026-09-03 | 1 |
 | 2026-10-05 | 1 |
 | 2026-10-09 | 1 |
+| 2026-11-16 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 20 | 69% |
-| Binary Search | 10 | 34% |
-| Math | 8 | 28% |
-| Two Pointers | 4 | 14% |
+| Array | 20 | 67% |
+| Binary Search | 10 | 33% |
+| Math | 9 | 30% |
+| Two Pointers | 4 | 13% |
 | Simulation | 3 | 10% |
 | Hash Table | 2 | 7% |
 | Prefix Sum | 2 | 7% |
@@ -64,12 +64,13 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 2 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 0 |
-| [Math](Topics/math/) | 8 |
+| [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
 | [Primality Test](Topics/primality-test/) | 1 |
 | [Prime Number Sieve](Topics/prime-number-sieve/) | 1 |
+| [Recursion](Topics/recursion/) | 1 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
