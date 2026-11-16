@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "0-1-knapsack",
+    "name": "0-1 Knapsack",
+    "tagId": "88229"
+  },
+  "updatedAt": "2026-11-16T16:36:39.653Z",
+  "problems": [
+    {
+      "frontendId": "494",
+      "title": "Target Sum",
+      "slug": "target-sum",
+      "problemName": "0494-target-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/target-sum/",
+      "folderPath": "0494-target-sum/",
+      "readmePath": "0494-target-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0494-target-sum.java",
+          "path": "0494-target-sum/0494-target-sum.java",
+          "sha": "3e8fc7e0734ac10bd716d73518b002f2f9347a34",
+          "lastSyncedAt": "2026-11-16T16:36:39.653Z"
+        }
+      ]
+    }
+  ]
+}
