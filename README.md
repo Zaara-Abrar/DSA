@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 43 | 20 | 20 | 3 |
+| 44 | 21 | 20 | 3 |
 
 ## Activity
 
@@ -28,17 +28,17 @@ Contains topicwise list of solved problems.
 | 2026-10-05 | 1 |
 | 2026-10-09 | 1 |
 | 2026-10-27 | 1 |
-| 2026-11-16 | 13 |
+| 2026-11-16 | 14 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 28 | 65% |
-| Backtracking | 12 | 28% |
+| Array | 28 | 64% |
+| Backtracking | 13 | 30% |
 | Binary Search | 10 | 23% |
-| Math | 9 | 21% |
-| Bit Manipulation | 7 | 16% |
+| Math | 9 | 20% |
+| Bit Manipulation | 8 | 18% |
 | Dynamic Programming | 7 | 16% |
 | String | 6 | 14% |
 | Two Pointers | 4 | 9% |
@@ -51,11 +51,11 @@ Contains topicwise list of solved problems.
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
 | [Array](Topics/array/) | 28 |
-| [Backtracking](Topics/backtracking/) | 12 |
+| [Backtracking](Topics/backtracking/) | 13 |
 | [Binary Search](Topics/binary-search/) | 10 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 7 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 8 |
 | [Bitmask](Topics/bitmask/) | 3 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
