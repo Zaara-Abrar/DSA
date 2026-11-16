@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-16T17:32:24.031Z",
+  "updatedAt": "2026-11-16T17:38:25.412Z",
   "problems": [
     {
       "frontendId": "17",
@@ -172,6 +172,26 @@
           "path": "0131-palindrome-partitioning/0131-palindrome-partitioning.java",
           "sha": "e3733131abad79571e9c61424c28daf79cf210c5",
           "lastSyncedAt": "2026-11-16T16:24:54.346Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "216",
+      "title": "Combination Sum III",
+      "slug": "combination-sum-iii",
+      "problemName": "0216-combination-sum-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/combination-sum-iii/",
+      "folderPath": "0216-combination-sum-iii/",
+      "readmePath": "0216-combination-sum-iii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0216-combination-sum-iii.java",
+          "path": "0216-combination-sum-iii/0216-combination-sum-iii.java",
+          "sha": "13ca82d462216098d503a8fc018e5cae0399ee1d",
+          "lastSyncedAt": "2026-11-16T17:38:25.412Z"
         }
       ]
     },
