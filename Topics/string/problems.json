@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-16T16:21:31.231Z",
+  "updatedAt": "2026-11-16T16:21:40.941Z",
   "problems": [
     {
       "frontendId": "17",
@@ -24,6 +24,26 @@
           "path": "0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.java",
           "sha": "7f959719c117d0ddc7e4756c745a06f52799edfc",
           "lastSyncedAt": "2026-11-16T16:21:31.231Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "22",
+      "title": "Generate Parentheses",
+      "slug": "generate-parentheses",
+      "problemName": "0022-generate-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/generate-parentheses/",
+      "folderPath": "0022-generate-parentheses/",
+      "readmePath": "0022-generate-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0022-generate-parentheses.java",
+          "path": "0022-generate-parentheses/0022-generate-parentheses.java",
+          "sha": "47606215960408ea92e45ae5e2f1f08884bfde01",
+          "lastSyncedAt": "2026-11-16T16:21:40.941Z"
         }
       ]
     },
