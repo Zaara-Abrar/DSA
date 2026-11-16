@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 30 | 19 | 10 | 1 |
+| 36 | 20 | 14 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 2 days | 23 |
+| 1 days | 2 days | 24 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-02-11 | 1 |
 | 2026-02-13 | 1 |
 | 2026-02-17 | 1 |
 | 2026-02-19 | 2 |
@@ -28,40 +27,43 @@ Contains topicwise list of solved problems.
 | 2026-09-03 | 1 |
 | 2026-10-05 | 1 |
 | 2026-10-09 | 1 |
-| 2026-11-16 | 1 |
+| 2026-10-27 | 1 |
+| 2026-11-16 | 6 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 20 | 67% |
-| Binary Search | 10 | 33% |
-| Math | 9 | 30% |
-| Two Pointers | 4 | 13% |
-| Simulation | 3 | 10% |
-| Hash Table | 2 | 7% |
-| Prefix Sum | 2 | 7% |
-| String | 2 | 7% |
-| Bit Manipulation | 1 | 3% |
-| Database | 1 | 3% |
+| Array | 22 | 61% |
+| Binary Search | 10 | 28% |
+| Math | 9 | 25% |
+| Backtracking | 5 | 14% |
+| String | 5 | 14% |
+| Two Pointers | 4 | 11% |
+| Dynamic Programming | 3 | 8% |
+| Hash Table | 3 | 8% |
+| Simulation | 3 | 8% |
+| Bit Manipulation | 2 | 6% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 20 |
-| [Backtracking](Topics/backtracking/) | 0 |
+| [Array](Topics/array/) | 22 |
+| [Backtracking](Topics/backtracking/) | 5 |
 | [Binary Search](Topics/binary-search/) | 10 |
-| [Binary Tree](Topics/binary-tree/) | 0 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 1 |
+| [Binary Search Tree](Topics/binary-search-tree/) | 1 |
+| [Binary Tree](Topics/binary-tree/) | 1 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 2 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Database](Topics/database/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 1 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 2 |
+| [Hash Table](Topics/hash-table/) | 3 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 0 |
 | [Math](Topics/math/) | 9 |
@@ -76,7 +78,8 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 1 |
 | [Stack](Topics/stack/) | 0 |
-| [String](Topics/string/) | 2 |
+| [String](Topics/string/) | 5 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
+| [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 4 |
 <!---LeetHub Summary End-->
