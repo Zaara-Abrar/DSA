@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 47 | 21 | 23 | 3 |
+| 48 | 21 | 24 | 3 |
 
 ## Activity
 
@@ -28,20 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-10-05 | 1 |
 | 2026-10-09 | 1 |
 | 2026-10-27 | 1 |
-| 2026-11-16 | 17 |
+| 2026-11-16 | 18 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 31 | 66% |
-| Backtracking | 16 | 34% |
+| Array | 32 | 67% |
+| Backtracking | 16 | 33% |
 | Binary Search | 10 | 21% |
 | Bit Manipulation | 9 | 19% |
 | Math | 9 | 19% |
-| Dynamic Programming | 7 | 15% |
+| Dynamic Programming | 8 | 17% |
 | String | 6 | 13% |
-| Two Pointers | 4 | 9% |
+| Two Pointers | 4 | 8% |
 | Bitmask | 3 | 6% |
 | Hash Table | 3 | 6% |
 
@@ -50,7 +50,7 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
-| [Array](Topics/array/) | 31 |
+| [Array](Topics/array/) | 32 |
 | [Backtracking](Topics/backtracking/) | 16 |
 | [Binary Search](Topics/binary-search/) | 10 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
@@ -62,7 +62,7 @@ Contains topicwise list of solved problems.
 | [Database](Topics/database/) | 1 |
 | [depth-first-search](Topics/depth-first-search/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 8 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 9 |
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
