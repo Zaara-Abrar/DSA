@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 35 | 20 | 14 | 1 |
+| 36 | 20 | 15 | 1 |
 
 ## Activity
 
@@ -28,29 +28,30 @@ Contains topicwise list of solved problems.
 | 2026-10-05 | 1 |
 | 2026-10-09 | 1 |
 | 2026-10-27 | 1 |
-| 2026-11-16 | 5 |
+| 2026-11-16 | 6 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 22 | 63% |
-| Binary Search | 10 | 29% |
-| Math | 9 | 26% |
-| Backtracking | 4 | 11% |
+| Array | 23 | 64% |
+| Binary Search | 10 | 28% |
+| Math | 9 | 25% |
+| Backtracking | 5 | 14% |
 | String | 4 | 11% |
 | Two Pointers | 4 | 11% |
-| Hash Table | 3 | 9% |
-| Simulation | 3 | 9% |
+| Dynamic Programming | 3 | 8% |
+| Hash Table | 3 | 8% |
+| Simulation | 3 | 8% |
 | Bit Manipulation | 2 | 6% |
-| Dynamic Programming | 2 | 6% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 22 |
-| [Backtracking](Topics/backtracking/) | 5 |
+| [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
+| [Array](Topics/array/) | 23 |
+| [Backtracking](Topics/backtracking/) | 6 |
 | [Binary Search](Topics/binary-search/) | 10 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -59,12 +60,13 @@ Contains topicwise list of solved problems.
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Database](Topics/database/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 3 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 4 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 3 |
 | [Heap](Topics/heap/) | 0 |
+| [Knapsack Problem](Topics/knapsack-problem/) | 1 |
 | [Linked List](Topics/linked-list/) | 0 |
 | [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 1 |
