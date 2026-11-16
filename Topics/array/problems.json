@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T16:51:44.261Z",
+  "updatedAt": "2026-11-16T16:51:47.754Z",
   "problems": [
     {
       "frontendId": "1",
@@ -503,7 +503,7 @@
           "filename": "1723-find-minimum-time-to-finish-all-jobs.java",
           "path": "1723-find-minimum-time-to-finish-all-jobs/1723-find-minimum-time-to-finish-all-jobs.java",
           "sha": "f5dabfea3ccff24a76b6fd6621e65525e3a03c84",
-          "lastSyncedAt": "2026-11-16T16:47:36.609Z"
+          "lastSyncedAt": "2026-11-16T16:51:47.754Z"
         }
       ]
     },
