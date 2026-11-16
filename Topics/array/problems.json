@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T16:41:39.535Z",
+  "updatedAt": "2026-11-16T16:45:00.381Z",
   "problems": [
     {
       "frontendId": "1",
@@ -204,6 +204,26 @@
           "path": "0204-count-primes/0204-count-primes.java",
           "sha": "6b75dee7546239d7919995f0d84bf89ffd1877bd",
           "lastSyncedAt": "2026-11-16T16:24:31.320Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "473",
+      "title": "Matchsticks to Square",
+      "slug": "matchsticks-to-square",
+      "problemName": "0473-matchsticks-to-square",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/matchsticks-to-square/",
+      "folderPath": "0473-matchsticks-to-square/",
+      "readmePath": "0473-matchsticks-to-square/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0473-matchsticks-to-square.java",
+          "path": "0473-matchsticks-to-square/0473-matchsticks-to-square.java",
+          "sha": "a91ee17bbdd4ce958088f412220625aa701188c7",
+          "lastSyncedAt": "2026-11-16T16:45:00.381Z"
         }
       ]
     },
