@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-16T16:23:24.523Z",
+  "updatedAt": "2026-11-16T16:54:12.236Z",
   "problems": [
     {
       "frontendId": "713",
@@ -23,7 +23,7 @@
           "filename": "0713-subarray-product-less-than-k.java",
           "path": "0713-subarray-product-less-than-k/0713-subarray-product-less-than-k.java",
           "sha": "a68a1e2ebc5e4ad2a9374862eccf0d9c5a9f3d99",
-          "lastSyncedAt": "2026-11-16T16:23:24.523Z"
+          "lastSyncedAt": "2026-11-16T16:54:12.236Z"
         }
       ]
     }
