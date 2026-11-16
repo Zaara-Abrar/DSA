@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-16T16:22:47.079Z",
+  "updatedAt": "2026-11-16T16:23:24.523Z",
   "problems": [
     {
       "frontendId": "713",
@@ -23,7 +23,7 @@
           "filename": "0713-subarray-product-less-than-k.java",
           "path": "0713-subarray-product-less-than-k/0713-subarray-product-less-than-k.java",
           "sha": "a68a1e2ebc5e4ad2a9374862eccf0d9c5a9f3d99",
-          "lastSyncedAt": "2026-09-29T08:45:41.238Z"
+          "lastSyncedAt": "2026-11-16T16:23:24.523Z"
         }
       ]
     },
