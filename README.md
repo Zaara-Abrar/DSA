@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 38 | 20 | 17 | 1 |
+| 41 | 20 | 19 | 2 |
 
 ## Activity
 
@@ -28,40 +28,41 @@ Contains topicwise list of solved problems.
 | 2026-10-05 | 1 |
 | 2026-10-09 | 1 |
 | 2026-10-27 | 1 |
-| 2026-11-16 | 8 |
+| 2026-11-16 | 11 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 25 | 66% |
-| Binary Search | 10 | 26% |
-| Math | 9 | 24% |
-| Backtracking | 7 | 18% |
-| Dynamic Programming | 5 | 13% |
-| Bit Manipulation | 4 | 11% |
-| String | 4 | 11% |
-| Two Pointers | 4 | 11% |
-| Hash Table | 3 | 8% |
-| Simulation | 3 | 8% |
+| Array | 27 | 66% |
+| Binary Search | 10 | 24% |
+| Backtracking | 9 | 22% |
+| Math | 9 | 22% |
+| Dynamic Programming | 7 | 17% |
+| Bit Manipulation | 5 | 12% |
+| String | 4 | 10% |
+| Two Pointers | 4 | 10% |
+| Bitmask | 3 | 7% |
+| Hash Table | 3 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
-| [Array](Topics/array/) | 25 |
-| [Backtracking](Topics/backtracking/) | 8 |
+| [Array](Topics/array/) | 27 |
+| [Backtracking](Topics/backtracking/) | 10 |
 | [Binary Search](Topics/binary-search/) | 10 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
-| [Binary Tree](Topics/binary-tree/) | 1 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 4 |
-| [Bitmask](Topics/bitmask/) | 2 |
+| [Binary Tree](Topics/binary-tree/) | 2 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 5 |
+| [Bitmask](Topics/bitmask/) | 3 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Database](Topics/database/) | 1 |
+| [depth-first-search](Topics/depth-first-search/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 6 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 8 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
@@ -84,6 +85,6 @@ Contains topicwise list of solved problems.
 | [Stack](Topics/stack/) | 0 |
 | [String](Topics/string/) | 5 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
-| [Tree](Topics/tree/) | 1 |
+| [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 4 |
 <!---LeetHub Summary End-->
