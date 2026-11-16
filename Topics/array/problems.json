@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T16:36:39.653Z",
+  "updatedAt": "2026-11-16T16:41:39.535Z",
   "problems": [
     {
       "frontendId": "1",
@@ -244,6 +244,26 @@
           "path": "0532-k-diff-pairs-in-an-array/0532-k-diff-pairs-in-an-array.java",
           "sha": "7bef8af0d3bedc601a172a9c833f4597e0197277",
           "lastSyncedAt": "2026-11-16T16:23:11.458Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "698",
+      "title": "Partition to K Equal Sum Subsets",
+      "slug": "partition-to-k-equal-sum-subsets",
+      "problemName": "0698-partition-to-k-equal-sum-subsets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets/",
+      "folderPath": "0698-partition-to-k-equal-sum-subsets/",
+      "readmePath": "0698-partition-to-k-equal-sum-subsets/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0698-partition-to-k-equal-sum-subsets.java",
+          "path": "0698-partition-to-k-equal-sum-subsets/0698-partition-to-k-equal-sum-subsets.java",
+          "sha": "15a1531a7ae0a158d1d765fb04cba3614407ee9d",
+          "lastSyncedAt": "2026-11-16T16:41:39.535Z"
         }
       ]
     },
