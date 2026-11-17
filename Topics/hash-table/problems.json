@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-17T15:03:48.762Z",
+  "updatedAt": "2026-11-17T15:04:38.436Z",
   "problems": [
     {
       "frontendId": "1",
@@ -63,7 +63,7 @@
           "filename": "0532-k-diff-pairs-in-an-array.java",
           "path": "0532-k-diff-pairs-in-an-array/0532-k-diff-pairs-in-an-array.java",
           "sha": "7bef8af0d3bedc601a172a9c833f4597e0197277",
-          "lastSyncedAt": "2026-11-16T16:54:01.391Z"
+          "lastSyncedAt": "2026-11-17T15:04:38.436Z"
         }
       ]
     }
