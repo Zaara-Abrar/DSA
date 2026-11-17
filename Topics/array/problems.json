@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-17T19:18:23.351Z",
+  "updatedAt": "2026-11-17T19:20:45.638Z",
   "problems": [
     {
       "frontendId": "1",
@@ -324,6 +324,26 @@
           "path": "0216-combination-sum-iii/0216-combination-sum-iii.java",
           "sha": "13ca82d462216098d503a8fc018e5cae0399ee1d",
           "lastSyncedAt": "2026-11-17T15:00:40.665Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "283",
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
+      "problemName": "0283-move-zeroes",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/move-zeroes/",
+      "folderPath": "0283-move-zeroes/",
+      "readmePath": "0283-move-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0283-move-zeroes.java",
+          "path": "0283-move-zeroes/0283-move-zeroes.java",
+          "sha": "61f3f775e2908ce19fefab7172ea8e3ae7c5bcee",
+          "lastSyncedAt": "2026-11-17T19:20:45.638Z"
         }
       ]
     },
