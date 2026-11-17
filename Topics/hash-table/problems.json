@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-17T15:05:33.919Z",
+  "updatedAt": "2026-11-17T15:27:04.986Z",
   "problems": [
     {
       "frontendId": "1",
@@ -84,6 +84,26 @@
           "path": "0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.java",
           "sha": "57dccab516940709aa8e9ac3cae1ea8feb194d3a",
           "lastSyncedAt": "2026-11-17T15:05:33.919Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "567",
+      "title": "Permutation in String",
+      "slug": "permutation-in-string",
+      "problemName": "0567-permutation-in-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/permutation-in-string/",
+      "folderPath": "0567-permutation-in-string/",
+      "readmePath": "0567-permutation-in-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0567-permutation-in-string.java",
+          "path": "0567-permutation-in-string/0567-permutation-in-string.java",
+          "sha": "c142e8b0149ff6ebc010cc1a31e6f9081b68882f",
+          "lastSyncedAt": "2026-11-17T15:27:04.986Z"
         }
       ]
     }
