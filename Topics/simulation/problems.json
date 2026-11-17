@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-17T15:04:28.384Z",
+  "updatedAt": "2026-11-17T15:10:34.571Z",
   "problems": [
     {
       "frontendId": "412",
@@ -24,6 +24,26 @@
           "path": "0412-fizz-buzz/0412-fizz-buzz.java",
           "sha": "f356b91be166004476ce777a265d7642ee7e56ce",
           "lastSyncedAt": "2026-11-17T15:04:28.384Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1094",
+      "title": "Car Pooling",
+      "slug": "car-pooling",
+      "problemName": "1094-car-pooling",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/car-pooling/",
+      "folderPath": "1094-car-pooling/",
+      "readmePath": "1094-car-pooling/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1094-car-pooling.java",
+          "path": "1094-car-pooling/1094-car-pooling.java",
+          "sha": "09690ab9f1bc33d77db6b450210f336f0a5e7435",
+          "lastSyncedAt": "2026-11-17T15:10:34.571Z"
         }
       ]
     },
