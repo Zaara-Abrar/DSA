@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-17T15:05:19.688Z",
+  "updatedAt": "2026-11-17T15:05:28.704Z",
   "problems": [
     {
       "frontendId": "1",
@@ -483,7 +483,7 @@
           "filename": "0852-peak-index-in-a-mountain-array.java",
           "path": "0852-peak-index-in-a-mountain-array/0852-peak-index-in-a-mountain-array.java",
           "sha": "e381d8f6019e117e1ad79b829fb61252f5105507",
-          "lastSyncedAt": "2026-11-16T16:54:39.781Z"
+          "lastSyncedAt": "2026-11-17T15:05:28.704Z"
         }
       ]
     },
