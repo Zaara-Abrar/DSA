@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 58 | 24 | 31 | 3 |
+| 59 | 24 | 32 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 2 days | 25 |
+| 3 days | 3 days | 26 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-02-17 | 1 |
 | 2026-02-19 | 2 |
 | 2026-02-21 | 1 |
 | 2026-02-24 | 1 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-10-27 | 1 |
 | 2026-11-16 | 19 |
 | 2026-11-17 | 9 |
+| 2026-11-18 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 38 | 66% |
-| Backtracking | 16 | 28% |
+| Array | 38 | 64% |
+| Backtracking | 16 | 27% |
+| String | 11 | 19% |
 | Binary Search | 10 | 17% |
-| String | 10 | 17% |
-| Bit Manipulation | 9 | 16% |
-| Dynamic Programming | 9 | 16% |
-| Math | 9 | 16% |
+| Bit Manipulation | 9 | 15% |
+| Dynamic Programming | 9 | 15% |
+| Math | 9 | 15% |
+| Sliding Window | 7 | 12% |
+| Hash Table | 6 | 10% |
 | Prefix Sum | 6 | 10% |
-| Sliding Window | 6 | 10% |
-| Hash Table | 5 | 9% |
 
 ## Topics
 
@@ -68,7 +68,7 @@ Contains topicwise list of solved problems.
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 6 |
+| [Hash Table](Topics/hash-table/) | 7 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
@@ -83,10 +83,10 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 1 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 4 |
-| [Sliding Window](Topics/sliding-window/) | 6 |
+| [Sliding Window](Topics/sliding-window/) | 7 |
 | [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 0 |
-| [String](Topics/string/) | 10 |
+| [String](Topics/string/) | 11 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 5 |
