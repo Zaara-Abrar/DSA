@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "depth-first-search",
+    "name": "Depth-First Search",
+    "tagId": "21"
+  },
+  "updatedAt": "2026-11-17T15:01:19.123Z",
+  "problems": [
+    {
+      "frontendId": "968",
+      "title": "Binary Tree Cameras",
+      "slug": "binary-tree-cameras",
+      "problemName": "0968-binary-tree-cameras",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-cameras/",
+      "folderPath": "0968-binary-tree-cameras/",
+      "readmePath": "0968-binary-tree-cameras/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0968-binary-tree-cameras.java",
+          "path": "0968-binary-tree-cameras/0968-binary-tree-cameras.java",
+          "sha": "e853c6a6f04971039a827ddc161d2991256cafa1",
+          "lastSyncedAt": "2026-11-17T15:01:19.123Z"
+        }
+      ]
+    }
+  ]
+}
