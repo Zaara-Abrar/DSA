@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T17:45:02.784Z",
+  "updatedAt": "2026-11-17T14:59:52.932Z",
   "problems": [
     {
       "frontendId": "1",
@@ -284,6 +284,26 @@
           "path": "0216-combination-sum-iii/0216-combination-sum-iii.java",
           "sha": "13ca82d462216098d503a8fc018e5cae0399ee1d",
           "lastSyncedAt": "2026-11-16T17:38:25.412Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "303",
+      "title": "Range Sum Query - Immutable",
+      "slug": "range-sum-query-immutable",
+      "problemName": "0303-range-sum-query-immutable",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-immutable/",
+      "folderPath": "0303-range-sum-query-immutable/",
+      "readmePath": "0303-range-sum-query-immutable/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0303-range-sum-query-immutable.java",
+          "path": "0303-range-sum-query-immutable/0303-range-sum-query-immutable.java",
+          "sha": "caa149d7fbaf4ab14e941590ad7d183ad23b3429",
+          "lastSyncedAt": "2026-11-17T14:59:52.932Z"
         }
       ]
     },
