@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 62 | 24 | 35 | 3 |
+| 63 | 24 | 35 | 4 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-10-27 | 1 |
 | 2026-11-16 | 19 |
 | 2026-11-17 | 9 |
-| 2026-11-18 | 4 |
+| 2026-11-18 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 40 | 65% |
-| Backtracking | 16 | 26% |
+| Array | 40 | 63% |
+| Backtracking | 16 | 25% |
+| String | 13 | 21% |
 | Binary Search | 12 | 19% |
-| String | 12 | 19% |
-| Sliding Window | 10 | 16% |
-| Bit Manipulation | 9 | 15% |
-| Dynamic Programming | 9 | 15% |
-| Math | 9 | 15% |
+| Sliding Window | 11 | 17% |
+| Bit Manipulation | 9 | 14% |
+| Dynamic Programming | 9 | 14% |
+| Math | 9 | 14% |
+| Hash Table | 8 | 13% |
 | Prefix Sum | 8 | 13% |
-| Hash Table | 7 | 11% |
 
 ## Topics
 
@@ -68,7 +68,7 @@ Contains topicwise list of solved problems.
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 8 |
+| [Hash Table](Topics/hash-table/) | 9 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
@@ -83,10 +83,10 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 1 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 4 |
-| [Sliding Window](Topics/sliding-window/) | 10 |
+| [Sliding Window](Topics/sliding-window/) | 11 |
 | [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 0 |
-| [String](Topics/string/) | 12 |
+| [String](Topics/string/) | 13 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 5 |
