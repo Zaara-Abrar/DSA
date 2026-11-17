@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 48 | 21 | 24 | 3 |
+| 49 | 22 | 24 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 2 days | 24 |
+| 2 days | 2 days | 25 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-02-13 | 1 |
 | 2026-02-17 | 1 |
 | 2026-02-19 | 2 |
 | 2026-02-21 | 1 |
@@ -29,18 +28,19 @@ Contains topicwise list of solved problems.
 | 2026-10-09 | 1 |
 | 2026-10-27 | 1 |
 | 2026-11-16 | 18 |
+| 2026-11-17 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 32 | 67% |
+| Array | 33 | 67% |
 | Backtracking | 16 | 33% |
-| Binary Search | 10 | 21% |
-| Bit Manipulation | 9 | 19% |
-| Math | 9 | 19% |
-| Dynamic Programming | 8 | 17% |
-| String | 6 | 13% |
+| Binary Search | 10 | 20% |
+| Bit Manipulation | 9 | 18% |
+| Math | 9 | 18% |
+| Dynamic Programming | 8 | 16% |
+| String | 6 | 12% |
 | Two Pointers | 4 | 8% |
 | Bitmask | 3 | 6% |
 | Hash Table | 3 | 6% |
@@ -50,7 +50,7 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
-| [Array](Topics/array/) | 32 |
+| [Array](Topics/array/) | 33 |
 | [Backtracking](Topics/backtracking/) | 16 |
 | [Binary Search](Topics/binary-search/) | 10 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
@@ -61,6 +61,7 @@ Contains topicwise list of solved problems.
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Database](Topics/database/) | 1 |
 | [depth-first-search](Topics/depth-first-search/) | 0 |
+| [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 9 |
 | [Enumeration](Topics/enumeration/) | 2 |
@@ -74,7 +75,7 @@ Contains topicwise list of solved problems.
 | [Matrix](Topics/matrix/) | 1 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 2 |
+| [Prefix Sum](Topics/prefix-sum/) | 3 |
 | [Primality Test](Topics/primality-test/) | 1 |
 | [Prime Number Sieve](Topics/prime-number-sieve/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
