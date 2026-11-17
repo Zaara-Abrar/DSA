@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-17T15:06:26.093Z",
+  "updatedAt": "2026-11-17T15:07:39.578Z",
   "problems": [
     {
       "frontendId": "1",
@@ -524,6 +524,26 @@
           "path": "0875-koko-eating-bananas/0875-koko-eating-bananas.java",
           "sha": "a4e076043f5155262e7dcb2f32b56c5cd7c713b2",
           "lastSyncedAt": "2026-11-17T15:05:19.688Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1109",
+      "title": "Corporate Flight Bookings",
+      "slug": "corporate-flight-bookings",
+      "problemName": "1109-corporate-flight-bookings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/corporate-flight-bookings/",
+      "folderPath": "1109-corporate-flight-bookings/",
+      "readmePath": "1109-corporate-flight-bookings/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1109-corporate-flight-bookings.java",
+          "path": "1109-corporate-flight-bookings/1109-corporate-flight-bookings.java",
+          "sha": "69f8a76351656126acf59894106d2972222e8110",
+          "lastSyncedAt": "2026-11-17T15:07:39.578Z"
         }
       ]
     },
