@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 52 | 23 | 26 | 3 |
+| 53 | 23 | 27 | 3 |
 
 ## Activity
 
@@ -28,20 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-10-09 | 1 |
 | 2026-10-27 | 1 |
 | 2026-11-16 | 19 |
-| 2026-11-17 | 3 |
+| 2026-11-17 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 35 | 67% |
-| Backtracking | 16 | 31% |
+| Array | 36 | 68% |
+| Backtracking | 16 | 30% |
 | Binary Search | 10 | 19% |
 | Bit Manipulation | 9 | 17% |
 | Dynamic Programming | 9 | 17% |
 | Math | 9 | 17% |
-| String | 6 | 12% |
-| Prefix Sum | 5 | 10% |
+| String | 7 | 13% |
+| Prefix Sum | 6 | 11% |
 | Simulation | 4 | 8% |
 | Two Pointers | 4 | 8% |
 
@@ -50,7 +50,7 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
-| [Array](Topics/array/) | 37 |
+| [Array](Topics/array/) | 38 |
 | [Backtracking](Topics/backtracking/) | 16 |
 | [Binary Search](Topics/binary-search/) | 10 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
@@ -77,7 +77,7 @@ Contains topicwise list of solved problems.
 | [Matrix](Topics/matrix/) | 1 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 7 |
+| [Prefix Sum](Topics/prefix-sum/) | 8 |
 | [Primality Test](Topics/primality-test/) | 1 |
 | [Prime Number Sieve](Topics/prime-number-sieve/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
@@ -86,7 +86,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 0 |
-| [String](Topics/string/) | 6 |
+| [String](Topics/string/) | 7 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 4 |
