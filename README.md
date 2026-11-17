@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 55 | 24 | 28 | 3 |
+| 56 | 24 | 29 | 3 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-10-09 | 1 |
 | 2026-10-27 | 1 |
 | 2026-11-16 | 19 |
-| 2026-11-17 | 6 |
+| 2026-11-17 | 7 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 38 | 69% |
+| Array | 38 | 68% |
 | Backtracking | 16 | 29% |
 | Binary Search | 10 | 18% |
 | Bit Manipulation | 9 | 16% |
 | Dynamic Programming | 9 | 16% |
 | Math | 9 | 16% |
-| String | 7 | 13% |
+| String | 8 | 14% |
 | Prefix Sum | 6 | 11% |
 | Simulation | 4 | 7% |
-| Two Pointers | 4 | 7% |
+| Sliding Window | 4 | 7% |
 
 ## Topics
 
@@ -83,10 +83,10 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 1 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 4 |
-| [Sliding Window](Topics/sliding-window/) | 3 |
+| [Sliding Window](Topics/sliding-window/) | 4 |
 | [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 0 |
-| [String](Topics/string/) | 7 |
+| [String](Topics/string/) | 8 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 4 |
