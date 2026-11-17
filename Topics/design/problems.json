@@ -5,7 +5,7 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-11-17T14:59:52.932Z",
+  "updatedAt": "2026-11-17T15:00:29.294Z",
   "problems": [
     {
       "frontendId": "303",
@@ -23,7 +23,7 @@
           "filename": "0303-range-sum-query-immutable.java",
           "path": "0303-range-sum-query-immutable/0303-range-sum-query-immutable.java",
           "sha": "caa149d7fbaf4ab14e941590ad7d183ad23b3429",
-          "lastSyncedAt": "2026-11-17T14:59:52.932Z"
+          "lastSyncedAt": "2026-11-17T15:00:29.294Z"
         }
       ]
     }
