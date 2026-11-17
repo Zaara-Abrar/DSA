@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-17T15:27:04.986Z",
+  "updatedAt": "2026-11-17T16:30:35.977Z",
   "problems": [
     {
       "frontendId": "1",
@@ -44,6 +44,26 @@
           "path": "0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.java",
           "sha": "7f959719c117d0ddc7e4756c745a06f52799edfc",
           "lastSyncedAt": "2026-11-17T15:03:09.549Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "438",
+      "title": "Find All Anagrams in a String",
+      "slug": "find-all-anagrams-in-a-string",
+      "problemName": "0438-find-all-anagrams-in-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-anagrams-in-a-string/",
+      "folderPath": "0438-find-all-anagrams-in-a-string/",
+      "readmePath": "0438-find-all-anagrams-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0438-find-all-anagrams-in-a-string.java",
+          "path": "0438-find-all-anagrams-in-a-string/0438-find-all-anagrams-in-a-string.java",
+          "sha": "6d0ce53ed01e3c5d1918a8fc183f582285472118",
+          "lastSyncedAt": "2026-11-17T16:30:35.977Z"
         }
       ]
     },
