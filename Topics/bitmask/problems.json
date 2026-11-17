@@ -5,7 +5,7 @@
     "name": "Bitmask",
     "tagId": "61078"
   },
-  "updatedAt": "2026-11-17T15:01:50.349Z",
+  "updatedAt": "2026-11-17T15:02:03.598Z",
   "problems": [
     {
       "frontendId": "473",
@@ -43,7 +43,7 @@
           "filename": "0698-partition-to-k-equal-sum-subsets.java",
           "path": "0698-partition-to-k-equal-sum-subsets/0698-partition-to-k-equal-sum-subsets.java",
           "sha": "15a1531a7ae0a158d1d765fb04cba3614407ee9d",
-          "lastSyncedAt": "2026-11-16T16:52:05.983Z"
+          "lastSyncedAt": "2026-11-17T15:02:03.598Z"
         }
       ]
     },
