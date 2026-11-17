@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-16T17:01:46.570Z",
+  "updatedAt": "2026-11-17T15:01:05.530Z",
   "problems": [
     {
       "frontendId": "17",
@@ -131,7 +131,7 @@
           "filename": "0784-letter-case-permutation.java",
           "path": "0784-letter-case-permutation/0784-letter-case-permutation.java",
           "sha": "ad2025367c13f35fc56dc9771905523386dff409",
-          "lastSyncedAt": "2026-11-16T17:01:46.570Z"
+          "lastSyncedAt": "2026-11-17T15:01:05.530Z"
         }
       ]
     }
