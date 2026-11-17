@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-17T15:13:31.915Z",
+  "updatedAt": "2026-11-17T15:15:23.226Z",
   "problems": [
     {
       "frontendId": "1",
@@ -404,6 +404,26 @@
           "path": "0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.java",
           "sha": "57dccab516940709aa8e9ac3cae1ea8feb194d3a",
           "lastSyncedAt": "2026-11-17T15:05:33.919Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "643",
+      "title": "Maximum Average Subarray I",
+      "slug": "maximum-average-subarray-i",
+      "problemName": "0643-maximum-average-subarray-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-average-subarray-i/",
+      "folderPath": "0643-maximum-average-subarray-i/",
+      "readmePath": "0643-maximum-average-subarray-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0643-maximum-average-subarray-i.java",
+          "path": "0643-maximum-average-subarray-i/0643-maximum-average-subarray-i.java",
+          "sha": "bab12a2aa5f000d7e370239d4f9a05432f0d6697",
+          "lastSyncedAt": "2026-11-17T15:15:23.226Z"
         }
       ]
     },
