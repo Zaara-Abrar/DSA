@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-17T15:27:04.986Z",
+  "updatedAt": "2026-11-17T16:30:35.977Z",
   "problems": [
     {
       "frontendId": "17",
@@ -112,6 +112,26 @@
           "path": "0412-fizz-buzz/0412-fizz-buzz.java",
           "sha": "f356b91be166004476ce777a265d7642ee7e56ce",
           "lastSyncedAt": "2026-11-17T15:04:28.384Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "438",
+      "title": "Find All Anagrams in a String",
+      "slug": "find-all-anagrams-in-a-string",
+      "problemName": "0438-find-all-anagrams-in-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-anagrams-in-a-string/",
+      "folderPath": "0438-find-all-anagrams-in-a-string/",
+      "readmePath": "0438-find-all-anagrams-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0438-find-all-anagrams-in-a-string.java",
+          "path": "0438-find-all-anagrams-in-a-string/0438-find-all-anagrams-in-a-string.java",
+          "sha": "6d0ce53ed01e3c5d1918a8fc183f582285472118",
+          "lastSyncedAt": "2026-11-17T16:30:35.977Z"
         }
       ]
     },
