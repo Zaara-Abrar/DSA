@@ -5,7 +5,7 @@
     "name": "0-1 Knapsack",
     "tagId": "88229"
   },
-  "updatedAt": "2026-11-16T16:52:16.784Z",
+  "updatedAt": "2026-11-17T15:02:20.903Z",
   "problems": [
     {
       "frontendId": "494",
@@ -23,7 +23,7 @@
           "filename": "0494-target-sum.java",
           "path": "0494-target-sum/0494-target-sum.java",
           "sha": "3e8fc7e0734ac10bd716d73518b002f2f9347a34",
-          "lastSyncedAt": "2026-11-16T16:52:16.784Z"
+          "lastSyncedAt": "2026-11-17T15:02:20.903Z"
         }
       ]
     }
