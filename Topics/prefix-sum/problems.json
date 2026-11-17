@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-17T15:10:34.571Z",
+  "updatedAt": "2026-11-17T15:13:31.915Z",
   "problems": [
     {
       "frontendId": "303",
@@ -144,6 +144,26 @@
           "path": "1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.java",
           "sha": "7f4a686168f44038a53268fdda3bc01b01bc4724",
           "lastSyncedAt": "2026-11-17T15:04:08.090Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2381",
+      "title": "Shifting Letters II",
+      "slug": "shifting-letters-ii",
+      "problemName": "2381-shifting-letters-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/shifting-letters-ii/",
+      "folderPath": "2381-shifting-letters-ii/",
+      "readmePath": "2381-shifting-letters-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2381-shifting-letters-ii.java",
+          "path": "2381-shifting-letters-ii/2381-shifting-letters-ii.java",
+          "sha": "9f2b039503962a11dbc0f48759613ae8cb935735",
+          "lastSyncedAt": "2026-11-17T15:13:31.915Z"
         }
       ]
     }
