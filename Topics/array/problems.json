@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-17T15:02:53.885Z",
+  "updatedAt": "2026-11-17T15:03:02.388Z",
   "problems": [
     {
       "frontendId": "1",
@@ -183,7 +183,7 @@
           "filename": "0078-subsets.java",
           "path": "0078-subsets/0078-subsets.java",
           "sha": "a2e1b8351ca2442bb0479622f4afa8b0ef266180",
-          "lastSyncedAt": "2026-11-16T16:52:41.703Z"
+          "lastSyncedAt": "2026-11-17T15:03:02.388Z"
         }
       ]
     },
