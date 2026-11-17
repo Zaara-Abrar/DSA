@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-17T15:04:38.436Z",
+  "updatedAt": "2026-11-17T15:05:33.919Z",
   "problems": [
     {
       "frontendId": "1",
@@ -64,6 +64,26 @@
           "path": "0532-k-diff-pairs-in-an-array/0532-k-diff-pairs-in-an-array.java",
           "sha": "7bef8af0d3bedc601a172a9c833f4597e0197277",
           "lastSyncedAt": "2026-11-17T15:04:38.436Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "560",
+      "title": "Subarray Sum Equals K",
+      "slug": "subarray-sum-equals-k",
+      "problemName": "0560-subarray-sum-equals-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subarray-sum-equals-k/",
+      "folderPath": "0560-subarray-sum-equals-k/",
+      "readmePath": "0560-subarray-sum-equals-k/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0560-subarray-sum-equals-k.java",
+          "path": "0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.java",
+          "sha": "57dccab516940709aa8e9ac3cae1ea8feb194d3a",
+          "lastSyncedAt": "2026-11-17T15:05:33.919Z"
         }
       ]
     }
