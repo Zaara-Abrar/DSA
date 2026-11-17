@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 49 | 22 | 24 | 3 |
+| 50 | 22 | 25 | 3 |
 
 ## Activity
 
@@ -28,29 +28,29 @@ Contains topicwise list of solved problems.
 | 2026-10-09 | 1 |
 | 2026-10-27 | 1 |
 | 2026-11-16 | 18 |
-| 2026-11-17 | 1 |
+| 2026-11-17 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 33 | 67% |
-| Backtracking | 16 | 33% |
+| Array | 34 | 68% |
+| Backtracking | 16 | 32% |
 | Binary Search | 10 | 20% |
 | Bit Manipulation | 9 | 18% |
 | Math | 9 | 18% |
 | Dynamic Programming | 8 | 16% |
 | String | 6 | 12% |
+| Prefix Sum | 4 | 8% |
 | Two Pointers | 4 | 8% |
 | Bitmask | 3 | 6% |
-| Hash Table | 3 | 6% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
-| [Array](Topics/array/) | 33 |
+| [Array](Topics/array/) | 34 |
 | [Backtracking](Topics/backtracking/) | 16 |
 | [Binary Search](Topics/binary-search/) | 10 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
@@ -60,9 +60,10 @@ Contains topicwise list of solved problems.
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Database](Topics/database/) | 1 |
-| [depth-first-search](Topics/depth-first-search/) | 0 |
+| [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
+| [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 9 |
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Graph](Topics/graph/) | 0 |
@@ -75,7 +76,7 @@ Contains topicwise list of solved problems.
 | [Matrix](Topics/matrix/) | 1 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 3 |
+| [Prefix Sum](Topics/prefix-sum/) | 4 |
 | [Primality Test](Topics/primality-test/) | 1 |
 | [Prime Number Sieve](Topics/prime-number-sieve/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
