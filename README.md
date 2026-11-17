@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 65 | 26 | 35 | 4 |
+| 66 | 27 | 35 | 4 |
 
 ## Activity
 
@@ -28,21 +28,21 @@ Contains topicwise list of solved problems.
 | 2026-10-27 | 1 |
 | 2026-11-16 | 19 |
 | 2026-11-17 | 9 |
-| 2026-11-18 | 7 |
+| 2026-11-18 | 8 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 42 | 65% |
-| Backtracking | 16 | 25% |
+| Array | 43 | 65% |
+| Backtracking | 16 | 24% |
 | String | 13 | 20% |
 | Binary Search | 12 | 18% |
 | Sliding Window | 11 | 17% |
 | Bit Manipulation | 9 | 14% |
 | Dynamic Programming | 9 | 14% |
+| Hash Table | 9 | 14% |
 | Math | 9 | 14% |
-| Hash Table | 8 | 12% |
 | Prefix Sum | 8 | 12% |
 
 ## Topics
@@ -50,25 +50,27 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
-| [Array](Topics/array/) | 44 |
+| [Array](Topics/array/) | 45 |
 | [Backtracking](Topics/backtracking/) | 16 |
 | [Binary Search](Topics/binary-search/) | 12 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 9 |
 | [Bitmask](Topics/bitmask/) | 3 |
+| [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
+| [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Database](Topics/database/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Design](Topics/design/) | 1 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 9 |
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 9 |
+| [Hash Table](Topics/hash-table/) | 10 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
@@ -84,7 +86,7 @@ Contains topicwise list of solved problems.
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 4 |
 | [Sliding Window](Topics/sliding-window/) | 11 |
-| [Sorting](Topics/sorting/) | 2 |
+| [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 0 |
 | [String](Topics/string/) | 13 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
