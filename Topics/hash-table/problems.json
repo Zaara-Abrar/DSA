@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-16T16:54:01.391Z",
+  "updatedAt": "2026-11-17T15:03:09.549Z",
   "problems": [
     {
       "frontendId": "1",
@@ -43,7 +43,7 @@
           "filename": "0017-letter-combinations-of-a-phone-number.java",
           "path": "0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.java",
           "sha": "7f959719c117d0ddc7e4756c745a06f52799edfc",
-          "lastSyncedAt": "2026-11-16T16:52:47.239Z"
+          "lastSyncedAt": "2026-11-17T15:03:09.549Z"
         }
       ]
     },
