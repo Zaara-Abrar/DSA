@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-17T15:01:19.123Z",
+  "updatedAt": "2026-11-17T15:03:24.189Z",
   "problems": [
     {
       "frontendId": "700",
@@ -23,7 +23,7 @@
           "filename": "0700-search-in-a-binary-search-tree.java",
           "path": "0700-search-in-a-binary-search-tree/0700-search-in-a-binary-search-tree.java",
           "sha": "587c7393964309c0c9baabbfcfb3ba8ef482a704",
-          "lastSyncedAt": "2026-11-16T16:53:00.954Z"
+          "lastSyncedAt": "2026-11-17T15:03:24.189Z"
         }
       ]
     },
