@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 56 | 24 | 29 | 3 |
+| 57 | 24 | 30 | 3 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-10-09 | 1 |
 | 2026-10-27 | 1 |
 | 2026-11-16 | 19 |
-| 2026-11-17 | 7 |
+| 2026-11-17 | 8 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 38 | 68% |
-| Backtracking | 16 | 29% |
+| Array | 38 | 67% |
+| Backtracking | 16 | 28% |
 | Binary Search | 10 | 18% |
 | Bit Manipulation | 9 | 16% |
 | Dynamic Programming | 9 | 16% |
 | Math | 9 | 16% |
-| String | 8 | 14% |
+| String | 9 | 16% |
 | Prefix Sum | 6 | 11% |
-| Simulation | 4 | 7% |
-| Sliding Window | 4 | 7% |
+| Sliding Window | 5 | 9% |
+| Two Pointers | 5 | 9% |
 
 ## Topics
 
@@ -68,7 +68,7 @@ Contains topicwise list of solved problems.
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 4 |
+| [Hash Table](Topics/hash-table/) | 5 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
@@ -83,11 +83,11 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 1 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 4 |
-| [Sliding Window](Topics/sliding-window/) | 4 |
+| [Sliding Window](Topics/sliding-window/) | 5 |
 | [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 0 |
-| [String](Topics/string/) | 8 |
+| [String](Topics/string/) | 9 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tree](Topics/tree/) | 2 |
-| [Two Pointers](Topics/two-pointers/) | 4 |
+| [Two Pointers](Topics/two-pointers/) | 5 |
 <!---LeetHub Summary End-->
