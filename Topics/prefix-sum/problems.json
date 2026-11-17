@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-17T15:07:39.578Z",
+  "updatedAt": "2026-11-17T15:10:34.571Z",
   "problems": [
     {
       "frontendId": "303",
@@ -84,6 +84,26 @@
           "path": "0724-find-pivot-index/0724-find-pivot-index.java",
           "sha": "8c56da05731a599638ff30013ce54e7e01910565",
           "lastSyncedAt": "2026-11-17T15:02:43.638Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1094",
+      "title": "Car Pooling",
+      "slug": "car-pooling",
+      "problemName": "1094-car-pooling",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/car-pooling/",
+      "folderPath": "1094-car-pooling/",
+      "readmePath": "1094-car-pooling/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1094-car-pooling.java",
+          "path": "1094-car-pooling/1094-car-pooling.java",
+          "sha": "09690ab9f1bc33d77db6b450210f336f0a5e7435",
+          "lastSyncedAt": "2026-11-17T15:10:34.571Z"
         }
       ]
     },
