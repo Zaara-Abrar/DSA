@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-17T15:05:44.886Z",
+  "updatedAt": "2026-11-17T15:13:31.915Z",
   "problems": [
     {
       "frontendId": "17",
@@ -132,6 +132,26 @@
           "path": "0784-letter-case-permutation/0784-letter-case-permutation.java",
           "sha": "ad2025367c13f35fc56dc9771905523386dff409",
           "lastSyncedAt": "2026-11-17T15:01:05.530Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2381",
+      "title": "Shifting Letters II",
+      "slug": "shifting-letters-ii",
+      "problemName": "2381-shifting-letters-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/shifting-letters-ii/",
+      "folderPath": "2381-shifting-letters-ii/",
+      "readmePath": "2381-shifting-letters-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2381-shifting-letters-ii.java",
+          "path": "2381-shifting-letters-ii/2381-shifting-letters-ii.java",
+          "sha": "9f2b039503962a11dbc0f48759613ae8cb935735",
+          "lastSyncedAt": "2026-11-17T15:13:31.915Z"
         }
       ]
     }
